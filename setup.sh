@@ -6,3 +6,4 @@ export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
 export CYCLONEDDS_URI='<CycloneDDS><Domain><General><Interfaces>
                             <NetworkInterface name="enx3c4937046061" priority="default" multicast="default" />
                         </Interfaces></General></Domain></CycloneDDS>'
+export ROS_DOMAIN_ID=0 # Use the default domain id
