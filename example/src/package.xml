@@ -10,6 +10,7 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <depend>unitree_go</depend>
+  <depend>unitree_hg</depend>
   <depend>unitree_api</depend>
   <depend>rclcpp</depend>
   <depend>std_msgs</depend>
